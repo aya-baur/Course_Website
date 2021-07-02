@@ -1,0 +1,1 @@
+User should be able to see a table with tutorial handouts and topics on the tutorials tab

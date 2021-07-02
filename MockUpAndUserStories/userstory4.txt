@@ -1,0 +1,1 @@
+Access a page with the course description (prereqs, exclusions, syllabus, marking scheme)

@@ -1,0 +1,1 @@
+User should be able to see a list of assignments, corresponding information and due dates on the assignments tab

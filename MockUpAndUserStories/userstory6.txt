@@ -1,0 +1,1 @@
+User should be able to fetch contact information of professors & TAs on the home page
